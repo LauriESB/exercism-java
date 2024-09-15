@@ -16,5 +16,5 @@
 ![screenshot](img/home.PNG)
 
 <div align="center">
-<img align="center" src="https://em-content.zobj.net/source/microsoft/309/ninja-cat_1f431-200d-1f464.png" alt="NetBeans Logo" width="30" height="auto">
+<img align="center" src="https://em-content.zobj.net/source/microsoft/309/ninja-cat_1f431-200d-1f464.png" alt="Ninjja Cat" width="30" height="auto">
 </div>
