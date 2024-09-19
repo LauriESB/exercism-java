@@ -16,5 +16,5 @@
 ![screenshot](img/home.PNG)
 
 <div align="center">
-<img align="center" src="https://em-content.zobj.net/source/microsoft/309/ninja-cat_1f431-200d-1f464.png" alt="Ninjja Cat" width="30" height="auto">
+<img align="center" src="https://static.wikia.nocookie.net/terraria_gamepedia/images/9/95/Baby_Imp_%28flying%29.gif/revision/latest?cb=20211224155014&format=original" alt="baby imp" width="30" height="auto">
 </div>
